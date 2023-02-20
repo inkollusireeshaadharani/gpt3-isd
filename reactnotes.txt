@@ -1,0 +1,22 @@
+We are not going to install any react dependencies for this project we gonna do everything from scratch we gonna install only the icons dependency
+npm install react-icons
+npm start
+runs the application on port number 3000
+create some components inside the SRC folder by creating a components folder
+In the components folder create some components like article brand call to action or CTA component, Feature component and navbar component. Each component has a component file that is the JSX file. And also the CSS file.
+import './article.css'
+importing the CSS file helps in applying styles to the component.
+Repeat the process for all the components. Create the JSX file and also the CSS file. And import the CSS file in the JSX file.
+Components folder for small components.
+Containers folder for large components.We have blog, features, footer, header, possibility and whatGPT3 containers
+Create the JSX file and CSS file.Just like the components for each of the containers.
+Insider app.We have a div.Inside that will include all the components and containers according to our layout.
+Our whole web page is therefore divided into several components which we can work upon independently. This improves the readability of the code.
+We create an App.CSS file To include the styles for the whole web page.Or the root component.And imported inside the app dot JS file.Create an index dot CSS file.to mention the values of the variables.
+Start working on each of the components Add a folder named assets in the SRC folder to include all our images
+
+
+
+
+
+
